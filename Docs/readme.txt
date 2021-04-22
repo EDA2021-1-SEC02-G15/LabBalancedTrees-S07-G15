@@ -1,1 +1,2 @@
-Responder preguntas y marcar con el nombre de los integrantes
+Julian Rivera Monroy - jc.riveram1@uniandes.edu.co
+Sebastian Suescun Caballero - s.suescun@uniandes.edu.co
